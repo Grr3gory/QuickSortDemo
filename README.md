@@ -43,19 +43,6 @@ Click generate and Reset, then select various pivots until the list is completel
 
 ## https://huggingface.co/spaces/Grr3g/QuickSortDemo
 ## Gregory Langille & ChatGPT
- 
-
-
-
-
-
-
-
-
-
-
-This code has some notable short comings. Namely, the comparisons counter is not accurate, we have to click on every value for the code to be sorted, which is also not accurate. (If we click on value 2, we should know that both 1 and 2 are sorted as their sublists are both length one. And, for added functionality I always intended to add a complexity value O(nlogn) to O(n2) so that this app is more educational and valuable to the user. But I am at my limit for what I can possibly know without additional outside help. So, in following the assignment guidelines I treated this as my original draft code, and have gotten help from ChatGPT to both simplify, and streamline the code I have.
-
 
 
 
